@@ -1,0 +1,50 @@
+:root {
+  /* === 背景色板 === */
+  --bg-primary: #060c1c;
+  --bg-panel: rgba(10, 20, 50, 0.7);
+  --bg-card: rgba(16, 30, 70, 0.6);
+  --border-color: rgba(0, 180, 255, 0.15);
+
+  /* === 文字色板 === */
+  --text-primary: #e0e8ff;
+  --text-secondary: #8899bb;
+  --text-muted: #556688;
+  --text-accent: #00d4ff;
+
+  /* === 功能色 === */
+  --color-success: #00e676;
+  --color-warning: #ffc107;
+  --color-danger: #ff5252;
+  --color-info: #40c4ff;
+
+  /* === 渐变 === */
+  --gradient-blue: linear-gradient(135deg, #00d4ff, #0090ff);
+  --gradient-purple: linear-gradient(135deg, #7b61ff, #b388ff);
+  --gradient-pink: linear-gradient(135deg, #ff6b9d, #c94b7c);
+  --gradient-header: linear-gradient(90deg, #060c1c, #0a1a3a, #060c1c);
+
+  /* === 尺寸 === */
+  --border-radius-sm: 4px;
+  --border-radius-md: 8px;
+  --border-radius-lg: 12px;
+
+  /* === 字号 === */
+  --font-xs: 12px;
+  --font-sm: 14px;
+  --font-md: 16px;
+  --font-lg: 20px;
+  --font-xl: 28px;
+  --font-xxl: 36px;
+  --font-huge: 48px;
+
+  /* === 间距 === */
+  --spacing-xs: 4px;
+  --spacing-sm: 8px;
+  --spacing-md: 16px;
+  --spacing-lg: 24px;
+  --spacing-xl: 32px;
+
+  /* === 动画 === */
+  --transition-fast: 0.2s ease;
+  --transition-normal: 0.3s ease;
+}
